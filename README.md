@@ -12,7 +12,7 @@ PaperPrep is a Streamlit web app that takes any arXiv paper URL and uses the Cla
 
 ## Screenshot
 
-> _Screenshot coming soon — deploy the app and add one here._
+![PaperPrep screenshot](screenshot.png)
 
 ---
 
