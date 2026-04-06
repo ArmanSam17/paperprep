@@ -4,6 +4,8 @@
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Streamlit](https://img.shields.io/badge/built%20with-Streamlit-ff4b4b)
 
+**[Live Demo →](https://paperprep-goxnpigsoikwytzane3dbe.streamlit.app)**
+
 **Understand any arXiv paper before you read it.**
 
 PaperPrep is a Streamlit web app that takes any arXiv paper URL and uses the Claude API to instantly generate a plain-English summary, a difficulty score, and a list of prerequisite concepts — so you can quickly decide whether a paper is worth your time and know exactly what background knowledge you'll need before diving in.
